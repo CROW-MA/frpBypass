@@ -41,6 +41,7 @@ Pre-requisitos
 
     Dispositivo Android con depuración USB habilitada (o capacidad para habilitarla)
 
+    Descarga ADB https://source.android.com/docs/setup/build/adb?hl=es-419
 Instalación de dependencias
 bash
 
