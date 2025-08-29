@@ -52,7 +52,7 @@ pip install tkinter
 
 bash
 
-git clone https://github.com/tu-usuario/frp-remover-tool.git
+git clone https://github.com/CROWN-MA/frp-remover-tool.git
 cd frp-remover-tool
 
     Conectar el dispositivo:
